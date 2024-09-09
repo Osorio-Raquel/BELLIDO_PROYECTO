@@ -1,0 +1,16 @@
+body {
+    font-family: 'Comic Sans MS', sans-serif;
+    background-color: #FDEFF4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+
+  header {
+    background-color: #FFC1E3;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 3px solid #FFB7D1;
+    position: relative;
+    overflow: hidden;
+  }
